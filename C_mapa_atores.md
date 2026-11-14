@@ -37,6 +37,18 @@ São pessoas, organizações e funções diferenciadas no desenho, não sete ins
 
 A3 pertence a A2; A5 pertence a A4. A6 não absorve as competências desses órgãos. A7 não decide o direito ao benefício. A gestão do Caixa Cidadão, aceita na rodada 6, é a responsabilidade local da Caixa; a rodada 11 acrescenta a coordenação conjunta para o desenho ampliado.
 
+## Decisões tomadas durante o grill e incorporadas ao mapa
+
+As decisões D1–D3 abaixo foram tomadas pelo aluno durante a entrevista registrada em [C_grill_transcript.md](C_grill_transcript.md). Cada linha identifica a pergunta, a resposta e a consequência no desenho. Os mesmos identificadores aparecem nas setas do diagrama a seguir.
+
+| Decisão tomada no grill | Evidência da escolha do aluno | Consequência concreta no mapa |
+|---|---|---|
+| **D1 — Automação primeiro; atendimento humano quando o trabalhador disser que a resposta não resolveu.** | **Rodada 4:** “não concordo. A automação deveria responder primeiro e depois a equipe humana.” **Rodada 5:** o aluno respondeu `2\.`, escolhendo a alternativa “Quando o trabalhador disser que a resposta não resolveu sua dúvida.” A escolha foi a alternativa 2, e não a recomendação do entrevistador de aceitar as três situações. | A1 recebe a primeira resposta da automação (`P → AU → U`). Se declarar que não resolveu, sua manifestação aciona o direcionamento por competência para A3 ou A5 (`U → RT → EC/EM`). A seta de saída de A1 traz o critério aprovado; outros critérios para atendimento humano permanecem em aberto. |
+| **D2 — Coordenação do Canal GOV com participação da Caixa e do MTE, preservadas as responsabilidades de cada órgão.** | **Rodada 11:** o entrevistador propôs essa forma de gestão. **Rodada 12:** o aluno aprovou expressamente a pergunta anterior: “pergunta 11. Concordo com a sugestão.” A aprovação também integra a síntese confirmada na rodada 13. A resposta da rodada 11 corrigia “iso” da rodada 10; por isso a concordância explícita com a coordenação é localizada na rodada 12. | A6 coordena o percurso conjunto, com participação institucional de A2 e A4 (`CX → CO` e `MT → CO`), e acompanha resolução e direcionamento (`CO → P`). A2 continua responsável por A3 e A4 por A5. A coordenação é uma função proposta; sua autoridade formal não foi estabelecida pela entrevista. |
+| **D3 — Ambiente comum de atendimento, com direcionamento interno e resposta ao cidadão no mesmo lugar.** | **Rodada 9:** “O Canal GOV deveria redirecionar automaticamente o problema, sem que o cidadão precise saber quem orientará.” **Rodada 10:** o entrevistador explicitou o tratamento dentro de uma plataforma comum; o aluno respondeu “iso”, corrigindo para “isso” na rodada 11. A síntese foi confirmada na rodada 13. | A3 e A5 recebem as demandas pelo roteador e devolvem a resposta pela plataforma comum (`RT → EC/EM → P → U`). A1 não precisa identificar previamente o órgão competente. Essa decisão unifica o ambiente de atendimento; não determina substituir sistemas internos de pagamento ou concessão. |
+
+**Confirmação final, rodada 13:** após a síntese das escolhas, o aluno respondeu: “Representa sim, a proposta que pensei.” Assim, o fluxo registra decisões da entrevista, e não somente atores extraídos da pesquisa. As atribuições técnicas adicionais e as hipóteses de implementação continuam identificadas como síntese do Codex.
+
 ## Diagrama de relações do desenho desejado
 
 **Legenda:** todas as relações de integração abaixo são propostas, não observações da operação atual. Setas contínuas: jornada desejada. Pontilhadas: responsabilidade institucional, governança e suporte. A tecnologia de classificação não foi escolhida; não se presume IA generativa.
@@ -54,19 +66,19 @@ flowchart LR
     CO["A6 — Coordenação do Canal GOV"]
     TE["A7 — Equipe técnica do Canal GOV"]
     U -->|"apresenta demanda"| P
-    P --> AU
+    P -->|"D1 — automação primeiro"| AU
     AU -->|"primeira resposta"| U
-    U -->|"diz que não resolveu"| RT
+    U -->|"D1 — diz que não resolveu"| RT
     RT -->|"competência da Caixa"| EC
     RT -->|"competência do MTE"| EM
-    EC -->|"resposta no ambiente comum"| P
-    EM -->|"resposta no ambiente comum"| P
-    P -->|"retorno e acompanhamento"| U
+    EC -->|"D3 — resposta no ambiente comum"| P
+    EM -->|"D3 — resposta no ambiente comum"| P
+    P -->|"D3 — retorno e acompanhamento"| U
     CX -.->|"responsabilidade institucional"| EC
     MT -.->|"responsabilidade institucional"| EM
-    CX -.->|"participa"| CO
-    MT -.->|"participa"| CO
-    CO -.->|"acompanha resolução e direcionamento"| P
+    CX -.->|"D2 — participa da coordenação"| CO
+    MT -.->|"D2 — participa da coordenação"| CO
+    CO -.->|"D2 — acompanha resolução e direcionamento"| P
     TE -.->|"suporte técnico proposto"| P
 ```
 
@@ -86,13 +98,9 @@ Leitura complementar ao fluxo: o centro representa a plataforma proposta, não u
 
 As organizações e suas equipes aparecem em camadas diferentes por terem papéis distintos; não são instituições independentes. A camada externa não significa ausência de contato com o cidadão, mas o papel institucional representado neste desenho.
 
-### Decisões efetivamente tomadas na entrevista
+Na cebola, **D1** corresponde aos papéis de atendimento A3/A5, acionados pelo critério escolhido por A1; **D2** aparece em A6 no núcleo e na participação institucional de A2/A4; **D3** explica por que as duas equipes se vinculam à mesma plataforma central. As evidências dessas decisões estão na tabela anterior ao fluxo. Os anéis complementam o mapa de relações, sem representar uma sequência de atendimento.
 
-- **D1 — Critério de oferta humana, rodada 5:** o aluno selecionou a alternativa 2, quando o trabalhador disser que a resposta não resolveu. Essa escolha é representada no fluxo; a camada de atendimento do diagrama de cebola mostra os papéis que atuariam depois dessa manifestação.
-- **D2 — Coordenação conjunta, rodada 11, confirmada na 12:** o aluno concordou com uma coordenação do Canal GOV com participação da Caixa e do MTE. O núcleo posiciona A6, enquanto A2/A4 permanecem responsáveis por suas competências institucionais.
-- **D3 — Ambiente comum, rodadas 9–10, confirmado na 13:** o aluno pediu que os canais de Caixa e MTE não permanecessem em seus próprios ambientes de atendimento. Por isso, a plataforma proposta está no centro e as equipes A3/A5 se relacionam com o mesmo serviço.
-
-O modelo visual foi inspirado no exemplo de diagrama de cebola do GOV.UK Design System (2017) apresentado na imagem da aula enviada pelo aluno. A classificação específica acima é uma adaptação ao exercício, não uma reprodução das categorias ou dos atores daquele caso. Os componentes e atores de contexto que ficaram fora do mapa original não foram acrescentados para preencher anéis. O diagrama ajuda a conferir a distribuição dos papéis e sua correspondência com o fluxo; não comprova integração implantada nem garante pontuação em nova avaliação.
+O modelo visual foi inspirado no exemplo de diagrama de cebola do GOV.UK Design System (2017) apresentado na imagem da aula enviada pelo aluno. A classificação específica acima é uma adaptação ao exercício, não uma reprodução das categorias ou dos atores daquele caso. Os componentes e atores de contexto que ficaram fora do mapa original não foram acrescentados para preencher anéis. O diagrama ajuda a conferir a distribuição dos papéis e sua correspondência com o fluxo; não comprova integração implantada.
 
 O encaminhamento incorreto não deve forçar a pessoa a sair da plataforma ou repetir sua história. O acompanhamento decorre das rodadas 8, 11 e 12; mecanismos de protocolo, histórico e prazo ainda precisam de projeto. Não foram inventados tempos de espera, indicadores, contratos, menus ou unidades administrativas.
 
