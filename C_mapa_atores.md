@@ -70,6 +70,30 @@ flowchart LR
     TE -.->|"suporte técnico proposto"| P
 ```
 
+## Diagrama de cebola — proximidade e papel no serviço
+
+![Diagrama de cebola do Canal GOV: núcleo com coordenação e equipe técnica; relação direta com trabalhador e equipes de atendimento; responsabilidade institucional da Caixa e do MTE.](assets/diagrama-cebola-canal-gov.png)
+
+[Versão vetorial para ampliar ou imprimir](assets/diagrama-cebola-canal-gov.svg).
+
+Leitura complementar ao fluxo: o centro representa a plataforma proposta, não um oitavo ator. Os anéis indicam proximidade funcional com a entrega do atendimento, não hierarquia, poder ou importância do cidadão. As cores distinguem uso, atendimento, gestão/instituição e suporte técnico. É uma síntese visual do Codex com os mesmos sete atores e papéis já discutidos, sem introduzir decisões novas atribuídas ao aluno.
+
+| Camada | Atores/papéis | Critério de posicionamento |
+|---|---|---|
+| Núcleo de entrega | A6 — Coordenação do Canal GOV; A7 — Equipe técnica do Canal GOV | Coordenam ou sustentam diretamente a plataforma comum proposta; composição e competências detalhadas continuam pendentes. |
+| Uso e atendimento direto | A1 — Trabalhador/beneficiário; A3 — Equipe humana da Caixa; A5 — Equipe de atendimento do MTE | Usam o serviço ou tratam a demanda no ambiente comum. O trabalhador mantém centralidade na finalidade do desenho. |
+| Responsabilidade institucional | A2 — Caixa Econômica Federal; A4 — Ministério do Trabalho e Emprego | Preservam atribuições institucionais e participam da coordenação proposta; suas equipes estão na camada de atendimento. |
+
+As organizações e suas equipes aparecem em camadas diferentes por terem papéis distintos; não são instituições independentes. A camada externa não significa ausência de contato com o cidadão, mas o papel institucional representado neste desenho.
+
+### Decisões efetivamente tomadas na entrevista
+
+- **D1 — Critério de oferta humana, rodada 5:** o aluno selecionou a alternativa 2, quando o trabalhador disser que a resposta não resolveu. Essa escolha é representada no fluxo; a camada de atendimento do diagrama de cebola mostra os papéis que atuariam depois dessa manifestação.
+- **D2 — Coordenação conjunta, rodada 11, confirmada na 12:** o aluno concordou com uma coordenação do Canal GOV com participação da Caixa e do MTE. O núcleo posiciona A6, enquanto A2/A4 permanecem responsáveis por suas competências institucionais.
+- **D3 — Ambiente comum, rodadas 9–10, confirmado na 13:** o aluno pediu que os canais de Caixa e MTE não permanecessem em seus próprios ambientes de atendimento. Por isso, a plataforma proposta está no centro e as equipes A3/A5 se relacionam com o mesmo serviço.
+
+O modelo visual foi inspirado no exemplo de diagrama de cebola do GOV.UK Design System (2017) apresentado na imagem da aula enviada pelo aluno. A classificação específica acima é uma adaptação ao exercício, não uma reprodução das categorias ou dos atores daquele caso. Os componentes e atores de contexto que ficaram fora do mapa original não foram acrescentados para preencher anéis. O diagrama ajuda a conferir a distribuição dos papéis e sua correspondência com o fluxo; não comprova integração implantada nem garante pontuação em nova avaliação.
+
 O encaminhamento incorreto não deve forçar a pessoa a sair da plataforma ou repetir sua história. O acompanhamento decorre das rodadas 8, 11 e 12; mecanismos de protocolo, histórico e prazo ainda precisam de projeto. Não foram inventados tempos de espera, indicadores, contratos, menus ou unidades administrativas.
 
 ## Influência e interesses a validar

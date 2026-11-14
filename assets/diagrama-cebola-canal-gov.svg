@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1260" viewBox="0 0 1500 1260" role="img" aria-labelledby="title desc">
+<title id="title">Canal GOV — diagrama de cebola dos sete atores</title>
+<desc id="desc">Plataforma proposta no centro. Núcleo: coordenação A6 e equipe técnica A7. Relação direta: trabalhador A1, equipe humana Caixa A3 e equipe MTE A5. Responsabilidade institucional: Caixa A2 e MTE A4. Anéis representam proximidade funcional, não hierarquia. Síntese do mapa decidido na entrevista.</desc>
+<rect width="1500" height="1260" fill="#ffffff"/>
+<rect x="60" y="36" width="1380" height="8" fill="#ef8766"/>
+<text x="60" y="62" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="39" font-weight="600" fill="#203349">Canal GOV · Diagrama de cebola</text>
+<text x="60" y="116" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#50647b">Caso: consulta de parcelas do seguro-desemprego · desenho desejado</text>
+<circle cx="600" cy="670" r="500" fill="#e9eef4" stroke="#cbd5e1" stroke-width="2"/>
+<circle cx="600" cy="670" r="350" fill="#f5f8fc" stroke="#cbd5e1" stroke-width="2"/>
+<circle cx="600" cy="670" r="195" fill="#fff4ed" stroke="#cbd5e1" stroke-width="2"/>
+<text x="600" y="210" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#50647b">3  RESPONSABILIDADE INSTITUCIONAL</text>
+<rect x="434.0" y="325.0" width="332" height="34" rx="15" fill="#f5f8fc" stroke="#f5f8fc" stroke-width="2"/>
+<text x="600" y="328" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" fill="#50647b">2  USO E ATENDIMENTO DIRETO</text>
+<text x="600" y="490" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#765948">1  NÚCLEO DE ENTREGA</text>
+<rect x="480.0" y="355.0" width="240" height="90" rx="15" fill="#f2ebfb" stroke="#79549d" stroke-width="2"/>
+<text x="600" y="365.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#79549d">A1 · USO</text>
+<text x="600" y="386.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="600" fill="#203349">Trabalhador /</text>
+<text x="600" y="412.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="600" fill="#203349">beneficiário</text>
+<rect x="255.0" y="611.0" width="150" height="118" rx="15" fill="#e7f1fb" stroke="#3476a9" stroke-width="2"/>
+<text x="330" y="621.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#3476a9">A3 · ATENDIMENTO</text>
+<text x="330" y="642.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#203349">Equipe humana</text>
+<text x="330" y="665.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#203349">da Caixa</text>
+<rect x="795.0" y="611.0" width="150" height="118" rx="15" fill="#e7f1fb" stroke="#3476a9" stroke-width="2"/>
+<text x="870" y="621.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#3476a9">A5 · ATENDIMENTO</text>
+<text x="870" y="642.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#203349">Equipe de</text>
+<text x="870" y="665.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#203349">atendimento</text>
+<text x="870" y="688.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#203349">do MTE</text>
+<rect x="107.5" y="612.0" width="145" height="116" rx="15" fill="#e7f3ef" stroke="#2d7a65" stroke-width="2"/>
+<text x="180" y="622.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#2d7a65">A2 · INSTITUIÇÃO</text>
+<text x="180" y="643.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#203349">Caixa</text>
+<text x="180" y="666.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#203349">Econômica</text>
+<text x="180" y="689.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#203349">Federal</text>
+<rect x="947.5" y="612.0" width="145" height="116" rx="15" fill="#e7f3ef" stroke="#2d7a65" stroke-width="2"/>
+<text x="1020" y="622.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#2d7a65">A4 · INSTITUIÇÃO</text>
+<text x="1020" y="643.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#203349">Ministério do</text>
+<text x="1020" y="665.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#203349">Trabalho e</text>
+<text x="1020" y="687.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#203349">Emprego</text>
+<rect x="485.0" y="523.0" width="230" height="84" rx="15" fill="#e7f3ef" stroke="#2d7a65" stroke-width="2"/>
+<text x="600" y="533.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#2d7a65">A6 · GESTÃO</text>
+<text x="600" y="554.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" fill="#203349">Coordenação</text>
+<text x="600" y="578.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" fill="#203349">do Canal GOV</text>
+<rect x="485.0" y="733.0" width="230" height="84" rx="15" fill="#fff0e4" stroke="#b96b2c" stroke-width="2"/>
+<text x="600" y="743.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#b96b2c">A7 · SUPORTE</text>
+<text x="600" y="764.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" fill="#203349">Equipe técnica</text>
+<text x="600" y="788.0" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" fill="#203349">do Canal GOV</text>
+<circle cx="600" cy="670" r="62" fill="#263d53" stroke="#263d53" stroke-width="2"/>
+<text x="600" y="637" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="600" fill="#ffffff">Canal GOV</text>
+<text x="600" y="665" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#ffffff">plataforma</text>
+<text x="600" y="687" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#ffffff">proposta</text>
+<text x="1140" y="264" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#203349">COMO LER AS CAMADAS</text>
+<text x="1140" y="330" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" fill="#203349">1 · Núcleo de entrega</text>
+<text x="1140" y="366" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">Coordenação e manutenção</text>
+<text x="1140" y="393" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">da plataforma proposta.</text>
+<text x="1140" y="445" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" fill="#203349">2 · Relação direta</text>
+<text x="1140" y="481" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">Quem utiliza o atendimento</text>
+<text x="1140" y="508" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">e quem trata as demandas.</text>
+<text x="1140" y="560" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" fill="#203349">3 · Responsabilidade</text>
+<text x="1140" y="596" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">Órgãos que preservam suas</text>
+<text x="1140" y="623" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">competências institucionais.</text>
+<text x="1140" y="704" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#203349">PAPÉIS</text>
+<circle cx="1151" cy="763" r="8" fill="#f2ebfb" stroke="#79549d" stroke-width="2"/>
+<text x="1174" y="751" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#203349">Uso do serviço</text>
+<circle cx="1151" cy="807" r="8" fill="#e7f1fb" stroke="#3476a9" stroke-width="2"/>
+<text x="1174" y="795" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#203349">Atendimento</text>
+<circle cx="1151" cy="851" r="8" fill="#e7f3ef" stroke="#2d7a65" stroke-width="2"/>
+<text x="1174" y="839" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#203349">Gestão e instituição</text>
+<circle cx="1151" cy="895" r="8" fill="#fff0e4" stroke="#b96b2c" stroke-width="2"/>
+<text x="1174" y="883" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#203349">Suporte técnico</text>
+<text x="1140" y="984" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">Distância indica proximidade</text>
+<text x="1140" y="1012" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">funcional, não hierarquia</text>
+<text x="1140" y="1040" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">ou importância do cidadão.</text>
+<text x="600" y="1095" dominant-baseline="text-before-edge" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">Mesmo conjunto de sete atores e papéis do mapa de relações.</text>
+<text x="60" y="1201" dominant-baseline="text-before-edge" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#50647b">Proposta de melhoria · Síntese visual do Codex a partir das decisões da entrevista.</text>
+</svg>
