@@ -4,6 +4,8 @@ Aluno: Lucimar Oliveira do Nascimento. Base documental: B_relatorio_assistente_v
 
 ## Serviço, finalidade e fronteira
 
+Nota de cronologia: o mapa foi decidido com a pesquisa v3 do ciclo anterior, preservada no commit f3e6086498687939dd21f295ffed356e0d711664. O novo ciclo ampliou a pesquisa documental posteriormente; os sete papéis e as escolhas do aluno permanecem iguais. Não foram acrescentados como decisões suas atores ou relações descobertos após a entrevista.
+
 O caso concreto é a busca de informação sobre parcelas do seguro-desemprego pelo atendimento telefônico Caixa Cidadão, referido no exercício como URA da Caixa. A finalidade escolhida é reduzir o tempo gasto pelo trabalhador repetindo contatos quando sua dúvida não é resolvida. A fronteira vai da tentativa de consulta até uma orientação útil, sem análise completa da concessão (rodadas 1–3).
 
 A entrevista produziu uma proposta de melhoria: **Canal GOV**, plataforma comum de atendimento, com direcionamento automático, tratamento pelas equipes competentes e retorno ao cidadão no mesmo ambiente (rodadas 7–10). É nome e desenho propostos pelo aluno. Não afirmamos que exista essa plataforma nem que corresponda à conta ou infraestrutura atual gov.br. Atender todas as demandas de governo é uma visão; este exercício detalha apenas o caso do seguro-desemprego.

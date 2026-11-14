@@ -1,6 +1,6 @@
 # Exercício 2.1 — Mapa de atores do seguro-desemprego
 
-> Revisão local na branch revisao-auditoria-v1: nova auditoria v1 recebida do aluno e pesquisa v2 refeita. Aguardando segunda auditoria do Gemini para atualizar a v3. Auditoria v2 e pesquisa v3 ainda correspondem ao ciclo anterior. Esta revisão não foi publicada nem submetida; a submissão anterior permanece registrada com 90/100.
+> Ciclo documental revisado concluído: novas auditorias do Gemini enviadas pelo aluno, v2 com tratamento ACH-01 a ACH-05 e v3 com refinamentos AV2-01 e AV2-02. A submissão anterior permanece registrada com 90/100 até eventual nova submissão. O histórico anterior foi preservado.
 
 **Aluno:** Lucimar Oliveira do Nascimento.
 
@@ -21,8 +21,8 @@ A entrevista definiu a proposta **Canal GOV**: plataforma comum de atendimento, 
 
 ## Método e limites
 
-Pesquisa pelo Codex (OpenAI), com fontes oficiais. Auditorias reais pelo Gemini (Google), modo Flash-Lite, sem login; não comprovam verificação externa independente. Entrevista com a skill grilling no Codex, uma pergunta por vez. A plataforma proposta não foi tratada como serviço existente.
+Pesquisa pelo Codex (OpenAI), com fontes oficiais e inspeção de páginas dos PDFs pertinentes. Auditorias do ciclo revisado recebidas do aluno, atribuídas ao Gemini (Google); modo/modelo não informado. O auditor declara busca indexada e não ter aberto os PDFs. Entrevista com a skill grilling no Codex, uma pergunta por vez, realizada antes desta revisão documental adicional. A plataforma proposta não foi tratada como serviço existente.
 
-O ciclo anterior foi publicado na branch main e submetido com 90/100. A revisão local atual ainda não está pronta para avaliação: falta a segunda auditoria e o fechamento da nova v3. Após concluir e publicar o novo ciclo, execute `autograde validar 2.1` nesta pasta para uma prévia. A publicação não equivale à submissão da atividade.
+O ciclo anterior foi submetido com 90/100. O ciclo revisado está preparado para publicação e nova prévia com `autograde validar 2.1`. Uma prévia não altera a nota já registrada; a publicação não equivale à submissão da atividade.
 
 A atividade segue o tutorial 2.1 fornecido pelo professor; foram adotados os limites mais exigentes de tamanho e rodadas quando o texto divergia. Materiais de apoio e rascunhos anteriores ficam fora deste repositório.

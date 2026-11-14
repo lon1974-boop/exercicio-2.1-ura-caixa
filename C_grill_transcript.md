@@ -4,6 +4,8 @@ Entrevistador: Codex, com a skill grilling adaptada para uma pergunta por vez. P
 
 As perguntas e respostas abaixo reproduzem as mensagens da entrevista. Mensagens intermediárias de registro de arquivos e tentativa de login no Gemini foram excluídas por não comporem a entrevista. O registro progressivo com notas interpretativas foi preservado na pasta de apoio. Esta é uma entrevista de decisões de desenho com o aluno, não pesquisa de campo com beneficiários ou atendentes.
 
+Nota de cronologia da revisão: a pesquisa v3 usada na entrevista é a versão preservada no commit f3e6086498687939dd21f295ffed356e0d711664. A atual pesquisa v3 foi revisada posteriormente, após novas auditorias enviadas pelo aluno. Não se atribui à entrevista conhecimento das fontes acrescentadas depois; as falas e decisões abaixo foram mantidas.
+
 ## Rodada 1 — finalidade
 
 **Codex:** Vamos retomar a entrevista, uma pergunta por vez.
