@@ -1,6 +1,6 @@
 # Mapa de atores — seguro-desemprego: do Caixa Cidadão à proposta Canal GOV
 
-Aluno: Lucimar Oliveira do Nascimento. Base documental: B_relatorio_assistente_v3.md. Base decisória: 13 rodadas reais de C_grill_transcript.md, encerradas com confirmação do aluno. Síntese e desenho: Codex.
+Aluno: Lucimar Oliveira do Nascimento. Base documental: B_relatorio_assistente_v3.md. Base decisória: 13 rodadas reais de C_grill_transcript.md, encerradas com confirmação do aluno, e uma 14ª rodada de esclarecimento nominal. Síntese e desenho: Codex.
 
 ## Serviço, finalidade e fronteira
 
@@ -29,7 +29,7 @@ São pessoas, organizações e funções diferenciadas no desenho, não sete ins
 | A2 | Caixa Econômica Federal | Organização; responsabilidade institucional | Responde por suas atribuições e participa da coordenação do atendimento comum | Rodadas 6, 8, 10–11; agente pagador em F5 |
 | A3 | Equipe humana da Caixa / Caixa Cidadão | Papel operacional interno à Caixa | Trata demandas de sua competência após insuficiência da resposta automática e retorna pelo ambiente comum | Rodadas 4–5 e 8–10; atuação no Canal GOV é proposta |
 | A4 | Ministério do Trabalho e Emprego (MTE) | Órgão público; responsabilidade administrativa | Mantém atribuições do serviço federal e participa da coordenação | Rodadas 7–11; responsabilidade pelo serviço em F3 |
-| A5 | Equipe de atendimento do MTE | Papel operacional interno ao MTE | Recebe e trata assuntos de sua competência dentro do ambiente comum | Equipes discutidas nas rodadas 8 e 10; unidade e vínculo não identificados; função do desenho proposto |
+| A5 | Equipe de atendimento do MTE | Papel operacional interno ao MTE | Recebe e trata assuntos de sua competência dentro do ambiente comum | Equipes discutidas nas rodadas 8 e 10 e papel confirmado nominalmente na rodada 14; unidade e vínculo não identificados; função do desenho proposto |
 | A6 | Coordenação do Canal GOV, com participação da Caixa e do MTE | Governança proposta | Acompanha demandas sem solução e encaminhamentos errados; coordena o percurso conjunto | Rodada 11, reiterada na 12 e síntese na 13; não presumida autoridade existente |
 | A7 | Equipe técnica do Canal GOV | Suporte técnico proposto | Manutenção da plataforma; suporte à investigação e correção técnica de roteamento é recomendação de implementação do Codex | Mencionada na rodada 12; aluno priorizou encaminhamento errado; atribuições detalhadas, composição e fornecedor abertos |
 

@@ -1,36 +1,26 @@
-# Exercício 2.1 — Mapa de atores do atendimento ao seguro-desemprego pela URA da Caixa
+# Exercício 2.1 — Mapa de atores do seguro-desemprego
 
-Aluno: Lucimar Oliveira do Nascimento.
+**Aluno:** Lucimar Oliveira do Nascimento.
 
-## Escopo
+**Serviço analisado:** consulta de parcelas do seguro-desemprego pelo atendimento telefônico Caixa Cidadão (URA da Caixa).
 
-Atendimento telefônico pela URA da Caixa, conforme o serviço-exemplo do tutorial indicado pelo aluno em 13 de novembro de 2026. A pesquisa inicial investiga o canal Caixa Cidadão. A documentação da operação e dos menus permanece em verificação.
+A entrevista definiu a proposta **Canal GOV**: plataforma comum de atendimento, com automação primeiro, acesso humano quando o cidadão disser que a resposta não resolveu e coordenação entre Caixa e MTE. O mapa distingue evidência documental e desenho desejado.
 
-## Entregáveis
+## Índice dos oito entregáveis
 
-| Arquivo | Situação |
-|---|---|
-| [A_meta_prompt.md](A_meta_prompt.md) | Preparado |
-| [B_relatorio_assistente_v1.md](B_relatorio_assistente_v1.md) | Pesquisa original preservada |
-| [B_relatorio_auditoria_v1.md](B_relatorio_auditoria_v1.md) | Auditoria real do Gemini — 14/11/2026 |
-| [B_relatorio_assistente_v2.md](B_relatorio_assistente_v2.md) | Revisão com tratamento de A1–A4 |
-| [B_relatorio_auditoria_v2.md](B_relatorio_auditoria_v2.md) | Segunda auditoria real do Gemini — 14/11/2026 |
-| [B_relatorio_assistente_v3.md](B_relatorio_assistente_v3.md) | Revisão com tratamento de B1–B4; lacunas explícitas |
-| [C_grill_transcript.md](C_grill_transcript.md) | Entrevista concluída: 13 rodadas e confirmação final |
-| [C_mapa_atores.md](C_mapa_atores.md) | Sete atores/papéis, diagrama e rastreabilidade das decisões |
+1. [Metaprompt](A_meta_prompt.md)
+2. [Pesquisa v1 — Codex](B_relatorio_assistente_v1.md)
+3. [Auditoria v1 — Gemini](B_relatorio_auditoria_v1.md)
+4. [Pesquisa v2 — Codex](B_relatorio_assistente_v2.md)
+5. [Auditoria v2 — Gemini](B_relatorio_auditoria_v2.md)
+6. [Pesquisa v3 — Codex](B_relatorio_assistente_v3.md)
+7. [Entrevista — 13 rodadas e esclarecimento complementar](C_grill_transcript.md)
+8. [Mapa — sete atores/papéis e diagrama](C_mapa_atores.md)
 
-Pesquisa: Codex (OpenAI). Auditorias: Gemini (Google), modo Flash-Lite, sem login. Respostas preservadas com proveniência e limitações. Os pareceres não comprovam navegação independente nem validam automaticamente os fatos. Entrevista realizada com a skill grilling no Codex, uma pergunta por vez. O mapa distingue o atendimento documentado da proposta Canal GOV confirmada pelo aluno. Publicação e validação do recorte atual ainda pendentes.
+## Método e limites
 
-## Sequência
+Pesquisa pelo Codex (OpenAI), com fontes oficiais. Auditorias reais pelo Gemini (Google), modo Flash-Lite, sem login; não comprovam verificação externa independente. Entrevista com a skill grilling no Codex, uma pergunta por vez. A plataforma proposta não foi tratada como serviço existente.
 
-Metaprompt → pesquisa v1 → auditoria v1 → pesquisa v2 → auditoria v2 → pesquisa v3 → entrevista grill-me → mapa final → validação e publicação.
+Arquivos conferidos localmente e publicados na branch main. Para obter a avaliação, execute `autograde validar 2.1` nesta pasta. A publicação não equivale à submissão da atividade.
 
-Cliente conferido em 13 de novembro de 2026 — autograde 0.9.0.
-
-Os materiais de apoio estão na pasta vizinha materiais-exercicio-2.1-ura-caixa. O exercício anterior sobre gov.br e Carteira de Trabalho Digital está preservado em outra pasta. A nota de prévia daquele recorte pertence à tentativa anterior.
-
-## Referência da atividade
-
-Tutorial fornecido pelo aluno em C:/COMPARTILHADA-ENTRE-USR/00-MESTRADO-IDP/TRANSFORMAÇÃO DIGITAL NO GOVERNO/tutorial_2.1.md.
-
-O tutorial menciona seis rodadas na tabela e oito no passo a passo da entrevista. O planejamento considera oito rodadas reais para atender às duas indicações. A tabela de entrega e a lista final pedem 300 palavras por auditoria, embora haja menção a 100 em trechos intermediários. O planejamento considera pelo menos 300 palavras.
+A atividade segue o tutorial 2.1 fornecido pelo professor; foram adotados os limites mais exigentes de tamanho e rodadas quando o texto divergia. Materiais de apoio e rascunhos anteriores ficam fora deste repositório.

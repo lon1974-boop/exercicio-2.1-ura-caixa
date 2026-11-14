@@ -1,6 +1,6 @@
 # Entrevista completa — decisões para o mapa de atores
 
-Entrevistador: Codex, com a skill grilling adaptada para uma pergunta por vez. Participante: aluno. Contexto: B_relatorio_assistente_v3.md, concluído antes da entrevista. Registro iniciado em 14/11/2026; datas individuais das mensagens não foram extraídas. Entrevista concluída em 13 rodadas, com confirmação final.
+Entrevistador: Codex, com a skill grilling adaptada para uma pergunta por vez. Participante: aluno. Contexto: B_relatorio_assistente_v3.md, concluído antes da entrevista. Registro iniciado em 14/11/2026; datas individuais das mensagens não foram extraídas. Treze rodadas iniciais, com confirmação final, e uma rodada complementar de esclarecimento nominal.
 
 As perguntas e respostas abaixo reproduzem as mensagens da entrevista. Mensagens intermediárias de registro de arquivos e tentativa de login no Gemini foram excluídas por não comporem a entrevista. O registro progressivo com notas interpretativas foi preservado na pasta de apoio. Esta é uma entrevista de decisões de desenho com o aluno, não pesquisa de campo com beneficiários ou atendentes.
 
@@ -135,6 +135,14 @@ Escolha a principal preocupação; as outras também precisarão ser tratadas.
 A skill [grilling](C:/Users/lon19/.codex/skills/grilling/SKILL.md) pede confirmar o entendimento antes de produzir o mapa: “Do not act on it until the user confirms you have reached a shared understanding.”
 
 **Aluno:** Representa sim, a proposta que pensei.
+
+## Rodada 14 — confirmação nominal do papel do MTE
+
+Esclarecimento solicitado após a primeira prévia de avaliação, que considerou insuficiente a identificação nominal desse papel nas rodadas anteriores. Não houve criação de resposta pelo assistente.
+
+**Codex:** No mapa, “equipe de atendimento do MTE” significa os profissionais do Ministério que tratariam, dentro do Canal GOV, as demandas de sua competência. Você confirma esse papel, distinto do MTE como órgão responsável?
+
+**Aluno:** Sim, confirmo esse papel.
 
 ## Notas de interpretação e limites
 
